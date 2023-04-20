@@ -4,9 +4,12 @@ Working with components and props
 create a react application which displays your name and must use 
 a concept of components and use props to update the name
 
+<<<<<<< HEAD
 implement using both function and class component on the same js file
 but one of the will be comented
 
+=======
+>>>>>>> e0f6becf4ee91faafba9aa2e4341fbf2c772878f
 Reference link :- https://legacy.reactjs.org/docs/components-and-props.html
 
 video reference :- https://www.youtube.com/watch?v=BfBUl_BNnXY&list=PLllIEssCHLKdRqOrDJdPIeW7nrwPPfa46&index=6&ab_channel=StubbornDevelopers

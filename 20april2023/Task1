@@ -1,3 +1,9 @@
-Create a react app in which gives an example of prop it should
-print a name in h1 tag when a prop attribute name is added and also
-implement component
+Creating React Application
+Working with components and props
+
+create a react application which displays your name and must use 
+a concept of components and use props to update the name
+
+Reference link :- https://legacy.reactjs.org/docs/components-and-props.html
+
+video reference :- https://www.youtube.com/watch?v=BfBUl_BNnXY&list=PLllIEssCHLKdRqOrDJdPIeW7nrwPPfa46&index=6&ab_channel=StubbornDevelopers
